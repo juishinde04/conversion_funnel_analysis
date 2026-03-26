@@ -65,7 +65,11 @@ The largest drop-off occurs between **Product View → Add to Cart**, indicating
 ## 🚀 Future Improvements
 - Time-based funnel analysis  
 - Use of real-world datasets  
-- Build more interactive dashboards for clearer decision-making  
+- Build more interactive dashboards for clearer decision-making
+
+
+- ## 📌 Summary
+This project focuses on identifying user drop-off patterns and translating them into actionable insights to improve conversion rates.
 
 ---
 
