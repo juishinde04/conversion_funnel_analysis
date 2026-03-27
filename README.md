@@ -22,11 +22,12 @@ This project analyzes user behavior across different stages of a conversion funn
 ## 📂 Project Structure
 
 conversion-funnel-analysis/
-└── README.md 
+
 ├── data/  
 ├── notebooks/  
 ├── sql/ 
- 
+└── README.md 
+
 
 ---
 
